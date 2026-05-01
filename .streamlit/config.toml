@@ -2,6 +2,10 @@
 headless = true
 port = 7860
 address = 0.0.0.0
+baseUrlPath = ""
+
+[client]
+showErrorDetails = true
 
 [logger]
 level = "info"
